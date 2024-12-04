@@ -4,6 +4,9 @@ I'm biomedical engineering and a recent Big Data specialist. I'm constantly lear
   
 The last one is biomedical appication where i'm using ML, DL in medical images, specially XR in maxilofacial area to predict landmarks where can be used to perform cephalometric measurements to improve the precision. This points are used to determine facial patterns that need attention for later correction. This because one thing i also want to do is surgical virtual planning. This would be a good field to show my discipline, dedication and responsability
 
+> [!IMPORTANT]
+> I'm still learning! want to show my skills an improve them. I'll be growing up in filds mentioned! just have to keep going!!! 
+
 <!---
 angelquinterol/angelquinterol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

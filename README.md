@@ -7,7 +7,7 @@ The last one is biomedical appication where i'm using ML, DL in medical images, 
 #
 
 > [!IMPORTANT]
-> I'm still learning! want to show my skills an improve them. I'll be growing up in filds mentioned! just have to keep going!!! 
+> I'm still learning! want to show my skills and improve them. I'll be growing up in fields mentioned! just have to keep going!!! 
 
 <!---
 angelquinterol/angelquinterol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
